@@ -1,9 +1,10 @@
 import Image from "next/image";
+import Home from "./pages/home/page";
 
 export default function App() {
   return (
-    <div className="px-32">
-      Home Main
+    <div className="">
+    <Home/>
     </div>
   );
 }
