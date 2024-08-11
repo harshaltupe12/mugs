@@ -23,7 +23,7 @@ function Navbar() {
                   <li>
                     <a
                       className="text-black transition hover:text-gray-500/75"
-                      href="#"
+                      href="/"
                     >
                       Home{" "}
                     </a>
@@ -32,7 +32,7 @@ function Navbar() {
                   <li>
                     <a
                       className="text-black transition hover:text-gray-500/75"
-                      href="#"
+                      href="https://harshal-tupe-portfolio.vercel.app/" target = "_blank"
                     >
                       About Me{" "}
                     </a>
@@ -41,7 +41,7 @@ function Navbar() {
                   <li>
                     <a
                       className="text-black transition hover:text-gray-500/75"
-                      href="#"
+                      href="https://harshal-tupe-portfolio.vercel.app/" target = "_blank"
                     >
                       Services{" "}
                     </a>
@@ -50,7 +50,7 @@ function Navbar() {
                   <li>
                     <a
                       className="text-black transition hover:text-gray-500/75"
-                      href="#"
+                      href="https://harshal-tupe-portfolio.vercel.app/" target = "_blank"
                     >
                       Projects{" "}
                     </a>
@@ -59,7 +59,7 @@ function Navbar() {
                   <li>
                     <a
                       className="text-black transition hover:text-gray-500/75"
-                      href="#"
+                      href="https://harshal-tupe-portfolio.vercel.app/" target = "_blank"
                     >
                       Testimonials{" "}
                     </a>
@@ -68,7 +68,7 @@ function Navbar() {
                   <li>
                     <a
                       className="text-black transition hover:text-gray-500/75"
-                      href="#"
+                      href="https://harshal-tupe-portfolio.vercel.app/" target = "_blank"
                     >
                       Contact{" "}
                     </a>
@@ -80,7 +80,7 @@ function Navbar() {
               <div className="sm:flex sm:gap-2">
                 <a
                   className="rounded-sm bg-[#FD6F00] md:px-5 px-2 py-1.5 md:text-lg text-sm font-light text-white shadow"
-                  href="/sign-in"
+                  href="https://drive.google.com/file/d/1619GUOv6KQ0syMXMfWNjCa256k0-fQab/view" target="_blank"
                 >
                   Download CV
                 </a>

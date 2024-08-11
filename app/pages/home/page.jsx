@@ -20,7 +20,7 @@ function Home() {
     <div className="">
       <div className="Navbar mt-10 md:px-40 px-3">
         <Navbar />
-        <div className="hero mt-10">
+        <div className="hero mt-10 md:mt-20">
           <Hero />
         </div>
         <div className="about mt-10">
